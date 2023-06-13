@@ -7,9 +7,9 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="117dp"
-        android:layout_height="82dp"
-        android:text="HOLA MUNDO! Soy Sergio Molina"
+        android:layout_width="120dp"
+        android:layout_height="26dp"
+        android:text="Cambio Nro 1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.54"
